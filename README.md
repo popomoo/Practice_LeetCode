@@ -10,6 +10,6 @@ Time complexity O(n)  &  Space complexity O(1)<br>
 75 Sort Colors <br>
 3 Ways Partition : Time Complexity O(n) & Space complexity O(1) <br>
 88 Merge Sorted Array <br>
-215 Kth largest element in an array : Quick Sort/Heap Sort <br>
+215 Kth Largest Element in an Array : Quick Sort/Heap Sort <br>
 * Quick Sort : Time Complexity O(n) & Space complexity O(logn) <br>
 * Heap Sort : Time Complexity O(nlogn) & Space complexity O(logn) <br>
